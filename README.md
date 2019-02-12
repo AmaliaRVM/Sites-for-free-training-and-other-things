@@ -10,6 +10,7 @@ https://keyframes.app/
 https://fonts.google.com/   
 https://codepen.io/  
 codedrops  
+https://www.hover.com/
 
 
 TRAINING  

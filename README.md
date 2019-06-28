@@ -11,7 +11,8 @@ http://cssanimate.com/
 https://fonts.google.com/   
 https://codepen.io/  
 codedrops  
-https://www.hover.com/
+https://www.hover.com/  
+https://dev.to/  
 
 
 TRAINING  

@@ -14,6 +14,13 @@ codedrops
 https://www.hover.com/  
 https://dev.to/  
 
+OTHER CODE LINKS  
+https://syntax.fm/  
+https://www.hackerrank.com/  
+https://leetcode.com/  
+https://open.kattis.com/  
+https://www.codingame.com/ 
+
 
 TRAINING  
 https://blockly-games.appspot.com/  
